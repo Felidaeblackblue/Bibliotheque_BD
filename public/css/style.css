@@ -1,0 +1,31 @@
+body{
+    background-image: url("/images/accueil2.png")  ;
+    background-repeat: no-repeat;
+    margin: 0;
+    }
+
+nav{
+    background-color: #ef9a01;
+    padding: 15px;
+    font-size: 20px;
+    display: flex;
+    width: 1500px;
+}
+
+a{
+    text-decoration: none;
+    color:#895e38;    
+}
+
+a:hover{
+    color: #ddcdc0;
+}
+
+.accueil{
+    margin-right:100px;
+    margin-left: 150px;
+}
+
+.ajout{
+    margin-left: 100px;
+}
